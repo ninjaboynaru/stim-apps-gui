@@ -1,3 +1,6 @@
+#Build files
+stim-apps-gui
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
